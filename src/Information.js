@@ -9,8 +9,10 @@ class Information extends Component {
       <div className="Info">
         <div className="Title Center">
           <h4>Grace Murray Hopper</h4>
+        </div><br/>
+        <div className="Center">
+          <img src={Grace} className="Info-grace" alt="Grace Hooper" />
         </div>
-        <img src={Grace} className="Info-grace" alt="Grace Hooper" />
         <div className="Sub-Title Center">
           <h5>Informacion personal</h5>
         </div>

@@ -1,31 +1,31 @@
 .Info {
   width: 25%;
-  border:1px solid green;
+  background-color: rgb(238, 243, 245);
   float: right;
-  padding: 5px;
+  padding: 10px;
+  margin: 15px;
   line-height: 0.9;
 }
 
 .Center {
   text-align: center;
 }
-/* .Personal-Date {
-  padding-top: -20px;
-} */
 
 .Title {
   background-color: rgb(192, 189, 189);
-  padding: 3px;
+  padding: 2px;
 }
 
 .Sub-Title {
   background-color: rgb(192, 189, 189);
-  padding: 0.1px;
+}
+
+.Sub-Title>h5 {
+  padding: 8px;
 }
 
 .Info-grace {
-  width: 210px;
-  padding: 3px;
+  width: 200px;
 }
 
 .Personal {
