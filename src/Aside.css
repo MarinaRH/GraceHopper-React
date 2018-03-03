@@ -1,11 +1,31 @@
 .Aside {
-    text-align: center;
-    width: 17%;
-    float: left;
-    border: 1px solid red;
-    /* position: relative; */
+  width: 17%;
+  float: left;
+  border-right: 1px solid rgb(175, 211, 218);
+  background-color: #F6F6F6;
+  /* position: relative; */
+  font-size: 13px;
+  line-height: 1.5;
 }
 
 .Aside-wiki {
-    width: 130px;
+  width: 130px;
+}
+
+.Aside>ul>li>a {
+  text-decoration: none;
+  
+}
+.Aside>ul>li {
+  list-style: none;
+}
+
+.Aside-title{
+  color: rgb(70, 68, 68);
+}
+
+.Aside>ul>div {
+  background-color: rgb(218, 214, 214);
+  height: 1px;
+  width: 80%;
 }
