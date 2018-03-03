@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './main.css';
 import Information from './Information';
 import Indice from './indice';
+import Biography from './Biography';
 
 class Main extends Component {
   render() {
@@ -15,6 +16,7 @@ class Main extends Component {
           <p>Popularizó la idea de una máquina independiente de los lenguajes de programación, lo que derivó en el desarrollo de <a href="#">COBOL</a>, un lenguaje de alto nivel de programación que aún se utiliza. Hopper intentó enlistarse en la<a href="#"> marina estadounidense</a>durante la <a href="#">Segunda Guerra Mundial</a>, pero debió unirse a las reservas de la armada porque era adulta para sus 34 años. Era conocida por sus amistades como Amazing Grace</p>
         </div>
         <Indice/>
+        <Biography/>
       </div>
     );
   }

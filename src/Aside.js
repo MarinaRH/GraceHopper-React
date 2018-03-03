@@ -7,7 +7,6 @@ class Aside extends Component {
   render() {
     return (
       <div className="Aside">
-        <p>holaaa</p>
         <img src={wiki} className="Aside-wiki" alt="wiki" />
       </div>
      

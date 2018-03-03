@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import './Information.css';
 import Grace from './grace.jpg';
-// import Nav from './Nav';
 
 class Information extends Component {
   render() {
