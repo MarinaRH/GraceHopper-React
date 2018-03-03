@@ -1,12 +1,31 @@
 .Info {
+  background-color: #F9F9F9;
+  border: 1px solid rgb(184, 183, 183);
+  padding: 7px;
+}
+
+.Information {
   width: 25%;
-  background-color: rgb(238, 243, 245);
   float: right;
   padding: 10px;
   margin: 15px;
   line-height: 0.9;
 }
 
+.Img-Info {
+  width: 85%;
+  float: right;
+  padding: 7px;
+  margin-top: 15px;
+  background-color: #F9F9F9;
+  border: 1px solid rgb(184, 183, 183);
+  font-size: 12px;
+  line-height: 1.1;
+}
+
+.Info-img {
+  width: 235px;
+}
 .Center {
   text-align: center;
 }
