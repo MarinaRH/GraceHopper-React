@@ -2,8 +2,9 @@
     /* height: 80%; */
     width: 80%;
     float: right;
-    border-bottom: 1px solid rgb(56, 147, 207);
-    padding-bottom: 0px;
+    border-bottom: 1px solid rgb(100, 159, 199);
+
+    margin-bottom: 0px;
   }
   
   .Nav-rigth {
@@ -17,13 +18,15 @@
   
   .Nav-left>li, .Nav-rigth>li {
     display: inline;
-    font-size: 14px;
-    color: gray;
-    border-right: 1px solid rgb(56, 147, 207);
+    font-size: 13px;
+    color: rgb(10, 10, 10);
+    
   }
   
   .Nav-left>li>a,.Nav-rigth>li>a {
     text-decoration: none;
-    padding: 5px;
-    font-size: 14px;
+    padding: 8px;
+    font-size: 13px;
+    border-right: 1px solid rgb(80, 162, 216);
+    border-left: 1px solid rgb(80, 162, 216);
   }

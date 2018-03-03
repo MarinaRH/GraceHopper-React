@@ -11,12 +11,12 @@
 
 .App-list>li {
   display: inline;
-  font-size: 14px;
+  font-size: 13px;
   color: gray;
 }
 
 .App-list>li>a {
   text-decoration: none;
   padding: 5px;
-  font-size: 14px;
+  font-size: 13px;
 }
