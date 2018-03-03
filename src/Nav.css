@@ -1,0 +1,29 @@
+.Nav {
+    /* height: 80%; */
+    width: 80%;
+    float: right;
+    border-bottom: 1px solid rgb(56, 147, 207);
+    padding-bottom: 0px;
+  }
+  
+  .Nav-rigth {
+    float: right;
+    
+  }
+
+  .Nav-left {
+    float: left;
+  }
+  
+  .Nav-left>li, .Nav-rigth>li {
+    display: inline;
+    font-size: 14px;
+    color: gray;
+    border-right: 1px solid rgb(56, 147, 207);
+  }
+  
+  .Nav-left>li>a,.Nav-rigth>li>a {
+    text-decoration: none;
+    padding: 5px;
+    font-size: 14px;
+  }
