@@ -1,0 +1,10 @@
+.Main {
+    width: 82%;
+    border: 1px solid red;
+    position: absolute;
+    /* bottom: 40%; */
+}
+
+.Parrafo {
+    width: 75%;
+}

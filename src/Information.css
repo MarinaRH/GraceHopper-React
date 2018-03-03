@@ -1,0 +1,51 @@
+.Info {
+  width: 25%;
+  border:1px solid green;
+  float: right;
+  padding: 5px;
+  line-height: 0.9;
+}
+
+.Center {
+  text-align: center;
+}
+/* .Personal-Date {
+  padding-top: -20px;
+} */
+
+.Title {
+  background-color: rgb(192, 189, 189);
+  padding: 3px;
+}
+
+.Sub-Title {
+  background-color: rgb(192, 189, 189);
+  padding: 0.1px;
+}
+
+.Info-grace {
+  width: 210px;
+  padding: 3px;
+}
+
+.Personal {
+  width: 35%;
+  display: inline-block;
+}
+
+.Date {
+  width: 60%;
+  display: inline-block;
+  font-size: 14px;
+}
+
+.Date>p>a{
+  text-decoration: none;
+}
+.Date>p>span{
+  font-size: 12px;
+}
+
+.Distinciones {
+  height: 150px;
+}

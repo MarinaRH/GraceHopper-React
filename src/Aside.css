@@ -1,0 +1,11 @@
+.Aside {
+    text-align: center;
+    width: 17%;
+    float: left;
+    border: 1px solid red;
+    /* position: relative; */
+}
+
+.Aside-wiki {
+    width: 130px;
+}
