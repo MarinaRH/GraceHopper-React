@@ -1,5 +1,4 @@
 
-
 ## GRACE H0OPER REACT
 
 ### `Objetivo`
@@ -20,4 +19,4 @@ Realizar una replica de la Biografia de Grace Hooper utilizando los componentes 
 
 ![demo](src/images/demo.png)
 
-Realizado para [Laboratoria](http://laboratoria.la)
+Realizado para [Laboratoria](http://laboratoria.la) por [Marina Rodriguez](https://github.com/MarinaRH)
