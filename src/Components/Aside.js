@@ -1,13 +1,14 @@
 import React, { Component } from 'react';
-import wiki from './wiki.png';
+import wiki from '../images/wiki.png';
 import './Aside.css';
-// import Nav from './Nav';
 
 class Aside extends Component {
   render() {
     return (
-      <div className="Aside">
-        <img src={wiki} className="Aside-wiki" alt="wiki" />
+      <aside className="Aside">
+        <div className="Center">
+          <img src={wiki} className="Aside-wiki" alt="wiki" />
+        </div>
         <ul>
           <li><a href="#">Portada</a></li>
           <li><a href="#">Portal de la comunidad</a></li>
@@ -43,12 +44,13 @@ class Aside extends Component {
           <br/>
           <li className="Aside-title">En otros idiomas</li>
           <div></div>
-          <li><a href="#">Crear un libro</a></li>
-          <li><a href="#">Descargar como PDF</a></li>
-          <li><a href="#">Version para imprimir</a></li>
+          <li><a href="#">Deutsch</a></li>
+          <li><a href="#">English</a></li>
+          <li><a href="#">Francais</a></li>
+          <li><a href="#">Bahasa Indonesia</a></li>
+          <li><a href="#">Portugues</a></li>
         </ul>
-      </div>
-     
+      </aside>
     );
   }
 }

@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-// import logo from './logo.svg';
 import './Nav.css';
 import Main from './main';
 
@@ -21,10 +20,7 @@ class Nav extends Component {
           </ul> 
           <Main />
         </nav>
-        
       </div>
-     
-    
     );
   }
 }

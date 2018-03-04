@@ -30,7 +30,24 @@ class Biography extends Component {
 
         Falleció mientras dormía en su domicilio de <a href="#">Arlington, Virginia</a>, el <a href="#">1 de enero</a> de 1992 a los ochenta y cinco años. Fue enterrada con todos los honores militares el <a href="#">7 de enero</a> en el <a href="#">cementerioNacional de Arlington</a>.
         </p>
-        
+        <p className="Title-parraf">Curiosidades [<a href="#">editar</a>]</p><hr/>
+        <ul className="Curiosidades">
+          <li>A lo largo de gran parte de su carrera, Hopper era muy demandada como oradora en eventos relacionados con la <a href="#">informática</a>. Era conocida por su animado e irreverente estilo de oratoria, así como por sus historias de guerra.</li>
+          <li>A menudo, se le atribuye erróneamente la invención del término <a href="#">bug</a> para referirse a un error o fallo en un programa. Trabajando con un <a href="#">Mark II</a> en la <a href="#">universidad de Harvard el 9 de septiembre</a> de <a href="#">1947</a>, los ingenieros encontraron una mariposilla enganchada a uno de los relés del ordenador y que impedía el funcionamiento del mismo. Dicho <a href="#">lepidóptero</a> pasó a la historia de la informática por ser pegado al libro de registro de actividad del ordenador con el comentario «First actual case of bug being found», en español «Primer caso real de bug encontrado» (el término bug no se traduce al castellano por considerarse una palabra técnica). Como ella misma reconoció, no fue ella la que encontró el insecto.</li>
+        </ul>
+        <p className="Title-parraf">Premios y Reconocimiento [<a href="#">editar</a>]</p><hr/>
+        <p>A lo largo de su vida, recibió numerosos reconocimientos, que incluyen más de 40 <a href="#">doctorados honoris causa</a>, la Medalla<a href="#" className="Red"> Wilbur Lucius Cross</a> de Yale, el rango de capitán en <a href="#">1973</a>, el de comodoro en 1983 y el de <a href="#">contraalmirante</a> en 1985. Única mujer con el grado de almirante de su país. Podemos destacar:</p>
+        <ul className="Curiosidades">
+          <li><a href="#">1969</a> – Paradójicamente recibió el título de Hombre del año en ciencias de la computación <a href="#" className="Red">(Data Processing Management Association)</a></li>
+          <li><a href="#">1973</a> - Primera mujer nombrada miembro distinguido de la <a href="#"> British Computer Society</a>.</li>
+          <li><a href="#">1986</a> - Tras su jubilación, recibió la <a href="#" className="Red">Medalla de Servicio Distinguido de Defensa</a>.</li>
+          <li><a href="#">1988</a> – Recibió el Premio Golden Gavel en la convención Toastmasters Internacional en Washington, DC.</li>
+          <li><a href="#">1991</a> – <a href="#">Medalla nacional de tecnología</a>.</li>
+          <li><a href="#">1996</a> – Se pone en marcha el <a href="#">buque de guerra</a>, <a href="#" className="Red">USS Hopper (DDG-70)</a>. Apodado Amazing Grace en su honor</li>
+          <li><a href="#">2001</a>- <a href="#" className="Red">Eavan Boland</a> le escribió un poema titulado "Code" en su poemario del 2001 Against Love Poetry</li>
+          <li><a href="#">2013</a>- Google realizó un <a href="#">Google Doodle</a> por el 107 natalicio de Hopper con una animación con ella sentada en un computador, usando COBOL para imprimir su edad. Al fin de la animación, una polilla vuela saliendo del computador​</li>
+          <li><a href="#">2016</a> - El 22 de Noviembre, Hopper fue galardonada a <a href="#">título póstumo</a>con la <a href="#">Medalla Presidencial</a> de la Libertad por sus logros en el campo de la computación por el Presidente <a href="#">Barack Obama</a>.</li>
+        </ul>
       </div>
     );
   }

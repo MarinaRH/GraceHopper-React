@@ -1,0 +1,28 @@
+.Main {
+  width: 85%;
+  position: absolute;
+  top: 14%;
+  font-size: 14px;
+  line-height:1.4;
+  border:1px solid rgb(190, 226, 243);
+}
+
+.Title-main {
+  font-family: 'Linux Libertine','Georgia','Times',serif;
+  font-size: 1.9em;
+  padding-left: 10px;
+}
+
+.Parrafo {
+  width: 75%;
+  padding:2px 15px;
+  text-align: justify;
+}
+
+.Parrafo>p>a {
+  text-decoration: none;
+}
+
+.Main>hr {
+  margin:0 12px;
+}

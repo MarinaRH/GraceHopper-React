@@ -5,3 +5,7 @@
 .Title-parraf {
     font-size: 16px;
 }
+
+.Curiosidades>li>a {
+  text-decoration: none;
+}

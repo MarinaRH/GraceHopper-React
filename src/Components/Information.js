@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import './Information.css';
-import Grace from './grace.jpg';
-import Univac from './univac.jpg';
-import Bug from './Bug.jpg';
+import Grace from '../images/grace.jpg';
+import Univac from '../images/univac.jpg';
+import Bug from '../images/Bug.jpg';
 
 class Information extends Component {
   render() {
@@ -64,8 +64,8 @@ class Information extends Component {
               <h5>Rama militar</h5>
               <h5>Rango</h5>
               <h5>Participo en</h5>
-              <h5>Mienbro de </h5><br/><br/><br/><br/>
-              <h5>Distinciones</h5><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+              <h5>Miembro de </h5><br/><br/><br/><br/>
+              <h5>Distinciones</h5><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
             </div>
             <div className="Date">
               <p> <a href="#">Matematica</a> oficial naval,<br/> <a href="#">informatica teorica,</a>profesora <br/> de unniversidad y <a href="#">programadora</a></p>

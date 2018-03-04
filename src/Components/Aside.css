@@ -1,9 +1,7 @@
 .Aside {
-  width: 17%;
+  width: 15%;
   float: left;
-  border-right: 1px solid rgb(175, 211, 218);
   background-color: #F6F6F6;
-  /* position: relative; */
   font-size: 13px;
   line-height: 1.5;
 }
@@ -28,4 +26,8 @@
   background-color: rgb(218, 214, 214);
   height: 1px;
   width: 80%;
+}
+
+Center {
+  text-align: center;
 }
