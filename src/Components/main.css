@@ -1,9 +1,9 @@
 .Main {
   width: 85%;
   position: absolute;
-  top: 14%;
+  top: 15%;
   font-size: 14px;
-  line-height:1.4;
+  line-height:1.5;
   border:1px solid rgb(190, 226, 243);
 }
 
@@ -15,7 +15,7 @@
 
 .Parrafo {
   width: 75%;
-  padding:2px 15px;
+  padding:0px 14px;
   text-align: justify;
 }
 
